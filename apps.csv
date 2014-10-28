@@ -1,0 +1,2 @@
+BrowserName,DisplayName,Description,WorkerGroupNames,Accounts,CommandLineExecutable,WorkingDirectory,FolderPath,ClientFolder,IconPath,AudioRequired,ColorDepth,InstanceLimit,WindowType
+Angus,Angus,Angus,Test1,vendor_support,"""C:\Windows\system32\wscript.exe"" C:\scripts\IE\test.vbs",C:\Windows\system32\,Applications/Test,Test,,0,Colors32Bit,0,1024X768
